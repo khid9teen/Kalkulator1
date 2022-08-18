@@ -1,0 +1,1 @@
+This is a replica of an iPhone calculator made with javascript, html and css.
